@@ -1,0 +1,400 @@
+
+Example 1: Accessible Countries with ['Indian Passport', 'US Visa', 'Schengen 
+Visa']
+          Summary of Access          
+┏━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┓
+┃ Access Type ┃ Number of Countries ┃
+┡━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━┩
+│ Visa Free   │                  78 │
+│ Evisa       │                  67 │
+└─────────────┴─────────────────────┘
+               Accessible Countries               
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
+┃ Country                          ┃ Access Type ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│ Angola                           │ Visa Free   │
+│ Armenia                          │ Evisa       │
+│ Azerbaijan                       │ Evisa       │
+│ Barbados                         │ Visa Free   │
+│ Benin                            │ Evisa       │
+│ Bolivia                          │ Evisa       │
+│ Botswana                         │ Evisa       │
+│ Burkina Faso                     │ Evisa       │
+│ Burundi                          │ Evisa       │
+│ Cambodia                         │ Evisa       │
+│ Cameroon                         │ Evisa       │
+│ Cape Verde                       │ Evisa       │
+│ Comoros                          │ Evisa       │
+│ Democratic Republic of the Congo │ Evisa       │
+│ Côte d'Ivoire                    │ Evisa       │
+│ Djibouti                         │ Evisa       │
+│ Dominica                         │ Visa Free   │
+│ East Timor                       │ Evisa       │
+│ El Salvador                      │ Visa Free   │
+│ Equatorial Guinea                │ Evisa       │
+│ Ethiopia                         │ Evisa       │
+│ Fiji                             │ Visa Free   │
+│ Gabon                            │ Evisa       │
+│ Gambia                           │ Visa Free   │
+│ Grenada                          │ Visa Free   │
+│ Guinea                           │ Evisa       │
+│ Guinea-Bissau                    │ Evisa       │
+│ Haiti                            │ Visa Free   │
+│ Iraq                             │ Evisa       │
+│ Indonesia                        │ Evisa       │
+│ Iran                             │ Visa Free   │
+│ Lesotho                          │ Evisa       │
+│ Libya                            │ Evisa       │
+│ Madagascar                       │ Evisa       │
+│ Malawi                           │ Evisa       │
+│ Jordan                           │ Evisa       │
+│ Kazakhstan                       │ Visa Free   │
+│ Kenya                            │ Evisa       │
+│ Kiribati                         │ Visa Free   │
+│ Nigeria                          │ Evisa       │
+│ Oman                             │ Visa Free   │
+│ Suriname                         │ Evisa       │
+│ Syria                            │ Evisa       │
+│ Tajikistan                       │ Evisa       │
+│ Tanzania                         │ Evisa       │
+│ Thailand                         │ Visa Free   │
+│ Togo                             │ Evisa       │
+│ Zambia                           │ Evisa       │
+│ Zimbabwe                         │ Evisa       │
+│ Trinidad and Tobago              │ Visa Free   │
+│ Vietnam                          │ Evisa       │
+│ Micronesia                       │ Visa Free   │
+│ Marshall Islands                 │ Evisa       │
+│ Mauritania                       │ Evisa       │
+│ Malaysia                         │ Visa Free   │
+│ Maldives                         │ Visa Free   │
+│ Mauritius                        │ Visa Free   │
+│ Rwanda                           │ Visa Free   │
+│ Saint Kitts and Nevis            │ Visa Free   │
+│ Saint Lucia                      │ Evisa       │
+│ Saint Vincent and the Grenadines │ Visa Free   │
+│ Samoa                            │ Visa Free   │
+│ São Tomé and Príncipe            │ Evisa       │
+│ Morocco                          │ Evisa       │
+│ Uzbekistan                       │ Evisa       │
+│ Vanuatu                          │ Visa Free   │
+│ Tuvalu                           │ Evisa       │
+│ Kyrgyzstan                       │ Evisa       │
+│ Laos                             │ Evisa       │
+│ Palau                            │ Visa Free   │
+│ Mongolia                         │ Evisa       │
+│ Russia                           │ Evisa       │
+│ Papua New Guinea                 │ Evisa       │
+│ Qatar                            │ Visa Free   │
+│ Mozambique                       │ Evisa       │
+│ Myanmar                          │ Evisa       │
+│ Uganda                           │ Evisa       │
+│ Seychelles                       │ Evisa       │
+│ Sierra Leone                     │ Evisa       │
+│ Singapore                        │ Evisa       │
+│ Senegal                          │ Visa Free   │
+│ Somalia                          │ Evisa       │
+│ South Africa                     │ Evisa       │
+│ South Sudan                      │ Evisa       │
+│ Sri Lanka                        │ Evisa       │
+│ Albania                          │ Visa Free   │
+│ Andorra                          │ Visa Free   │
+│ Antigua and Barbuda              │ Evisa       │
+│ Austria                          │ Visa Free   │
+│ Bahamas                          │ Evisa       │
+│ Bahrain                          │ Evisa       │
+│ Belarus                          │ Visa Free   │
+│ Belgium                          │ Visa Free   │
+│ Bosnia and Herzegovina           │ Visa Free   │
+│ Bulgaria                         │ Visa Free   │
+│ Colombia                         │ Evisa       │
+│ Costa Rica                       │ Visa Free   │
+│ Croatia                          │ Visa Free   │
+│ Cuba                             │ Visa Free   │
+│ Cyprus                           │ Visa Free   │
+│ Czech Republic                   │ Visa Free   │
+│ Denmark                          │ Visa Free   │
+│ Dominican Republic               │ Visa Free   │
+│ Estonia                          │ Visa Free   │
+│ Finland                          │ Visa Free   │
+│ France                           │ Visa Free   │
+│ Germany                          │ Visa Free   │
+│ Vatican City                     │ Visa Free   │
+│ Greece                           │ Visa Free   │
+│ Guatemala                        │ Visa Free   │
+│ Hungary                          │ Visa Free   │
+│ Italy                            │ Visa Free   │
+│ Liechtenstein                    │ Visa Free   │
+│ Lithuania                        │ Visa Free   │
+│ Luxembourg                       │ Visa Free   │
+│ Iceland                          │ Visa Free   │
+│ Honduras                         │ Visa Free   │
+│ Latvia                           │ Visa Free   │
+│ North Macedonia                  │ Visa Free   │
+│ Norway                           │ Visa Free   │
+│ Sweden                           │ Visa Free   │
+│ Switzerland                      │ Visa Free   │
+│ Netherlands                      │ Visa Free   │
+│ Nicaragua                        │ Evisa       │
+│ Georgia                          │ Evisa       │
+│ South Korea                      │ Evisa       │
+│ Mexico                           │ Visa Free   │
+│ Monaco                           │ Visa Free   │
+│ San Marino                       │ Visa Free   │
+│ Moldova                          │ Visa Free   │
+│ Montenegro                       │ Visa Free   │
+│ Romania                          │ Visa Free   │
+│ Panama                           │ Visa Free   │
+│ Peru                             │ Visa Free   │
+│ Philippines                      │ Visa Free   │
+│ Poland                           │ Visa Free   │
+│ Portugal                         │ Visa Free   │
+│ Serbia                           │ Visa Free   │
+│ Slovakia                         │ Visa Free   │
+│ Slovenia                         │ Visa Free   │
+│ Spain                            │ Visa Free   │
+│ Uruguay                          │ Visa Free   │
+│ Saudi Arabia                     │ Visa Free   │
+│ Turkey                           │ Evisa       │
+│ United Arab Emirates             │ Visa Free   │
+└──────────────────────────────────┴─────────────┘
+
+Example 2: Best Visa to Visit Mexico
+                           Best Visa to Visit Mexico                            
+┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Document      ┃ Access Type ┃ Additional Countries Covered                   ┃
+┡━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Schengen Visa │ Visa free   │ Albania, Andorra, Antigua and Barbuda,         │
+│               │             │ Austria, Bahamas, Bahrain, Belarus, Belgium,   │
+│               │             │ Bosnia and Herzegovina, Bulgaria, Colombia,    │
+│               │             │ Costa Rica, Croatia, Cuba, Cyprus, Czech       │
+│               │             │ Republic, Denmark, Dominican Republic,         │
+│               │             │ Estonia, Finland, France, Germany, Vatican     │
+│               │             │ City, Greece, Guatemala, Hungary, Italy,       │
+│               │             │ Liechtenstein, Lithuania, Luxembourg, Iceland, │
+│               │             │ Honduras, Latvia, North Macedonia, Norway,     │
+│               │             │ Sweden, Switzerland, Netherlands, Nicaragua,   │
+│               │             │ Georgia, South Korea, Mexico, Monaco, San      │
+│               │             │ Marino, Moldova, Montenegro, Romania, Panama,  │
+│               │             │ Peru, Philippines, Poland, Portugal, Serbia,   │
+│               │             │ Slovakia, Slovenia, Spain, Uruguay, Saudi      │
+│               │             │ Arabia, Turkey, United Arab Emirates           │
+└───────────────┴─────────────┴────────────────────────────────────────────────┘
+
+Example 3: Best Combination of 3 Visas Covering Most Countries
+                           Best Combination of Visas                            
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Documents                                   ┃ Number of Accessible Countries ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ United Kingdom Visa, Schengen Visa, United  │                             65 │
+│ States Visa                                 │                                │
+└─────────────────────────────────────────────┴────────────────────────────────┘
+Warning: Unable to cover the following countries with the current set of 
+documents: {'Iran', 'Grenada', 'Oman', 'Trinidad and Tobago', 'Guinea-Bissau', 
+'Mozambique', 'Kyrgyzstan', 'Seychelles', 'El Salvador', 'Saint Lucia', 
+'Lesotho', 'East Timor', 'Cameroon', 'Uzbekistan', 'Kenya', 'Rwanda', 'Armenia',
+'Haiti', 'Syria', 'Zimbabwe', 'Burundi', 'Mongolia', 'Indonesia', 'Barbados', 
+'Guinea', 'Tanzania', 'Zambia', 'Bolivia', 'Mauritania', 'Laos', 'Sri Lanka', 
+'Angola', "Côte d'Ivoire", 'Uganda', 'Myanmar', 'Vietnam', 'Marshall Islands', 
+'Botswana', 'Malaysia', 'Russia', 'Gambia', 'Papua New Guinea', 'Gabon', 'Cape 
+Verde', 'Cambodia', 'Kazakhstan', 'Saint Kitts and Nevis', 'Micronesia', 
+'Tajikistan', 'South Sudan', 'Comoros', 'Equatorial Guinea', 'Azerbaijan', 
+'Morocco', 'Kiribati', 'Nigeria', 'Dominica', 'Malawi', 'Tuvalu', 'Vanuatu', 
+'Fiji', 'Benin', 'Senegal', 'Saint Vincent and the Grenadines', 'Libya', 
+'Nepal', 'Mauritius', 'Qatar', 'Djibouti', 'Sierra Leone', 'Thailand', 'Togo', 
+'Bhutan', 'Suriname', 'Maldives', 'Iraq', 'São Tomé and Príncipe', 'Democratic 
+Republic of the Congo', 'Somalia', 'Burkina Faso', 'Samoa', 'South Africa', 
+'Singapore', 'Jordan', 'Madagascar', 'Ethiopia', 'Palau'}
+
+Example 4: Minimum Visas to Cover All Countries
+                      Minimum Visas to Cover All Countries                      
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Documents                                   ┃ Number of Accessible Countries ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Chad Visa, Tunisia Visa, Solomon Islands    │                            106 │
+│ Visa, New Zealand Visa, GCC Residence       │                                │
+│ Permit, Central African Republic Visa,      │                                │
+│ Nauru Visa, Republic of the Congo Visa,     │                                │
+│ United Kingdom Visa, Bangladesh Visa,       │                                │
+│ Lebanon Visa, Yemen Visa, Eswatini Visa,    │                                │
+│ Australia Visa, Guyana Visa, Ghana Visa,    │                                │
+│ Niger Visa, Ukraine Visa, Israel Visa,      │                                │
+│ Algeria Visa, China Visa, Tonga Visa, Japan │                                │
+│ Visa, Paraguay Visa, Malta Visa, Brazil     │                                │
+│ Visa, Afghanistan Visa, Mali Visa, Jamaica  │                                │
+│ Visa, Turkmenistan Visa, Venezuela Visa,    │                                │
+│ Canada Visa, North Korea Visa, Schengen     │                                │
+│ Visa, Liberia Visa, Eritrea Visa, Belize    │                                │
+│ Visa, Pakistan Visa, Brunei Visa, Namibia   │                                │
+│ Visa, Sudan Visa, United States Visa,       │                                │
+│ Ecuador Visa                                │                                │
+└─────────────────────────────────────────────┴────────────────────────────────┘
+Warning: Unable to cover the following countries with the current set of 
+documents: {'Iran', 'Grenada', 'Oman', 'Trinidad and Tobago', 'Guinea-Bissau', 
+'Mozambique', 'Kyrgyzstan', 'Seychelles', 'El Salvador', 'Saint Lucia', 
+'Lesotho', 'East Timor', 'Nicaragua', 'Cameroon', 'Uzbekistan', 'Kenya', 
+'Rwanda', 'Armenia', 'Haiti', 'Syria', 'Turkey', 'Zimbabwe', 'Burundi', 
+'Mongolia', 'Indonesia', 'Barbados', 'Guinea', 'Tanzania', 'Zambia', 'Bolivia', 
+'Mauritania', 'Antigua and Barbuda', 'Laos', 'Sri Lanka', 'Angola', "Côte 
+d'Ivoire", 'Uganda', 'South Korea', 'Myanmar', 'Vietnam', 'Marshall Islands', 
+'Botswana', 'Malaysia', 'Russia', 'Gambia', 'Papua New Guinea', 'Gabon', 'Cape 
+Verde', 'Argentina', 'Cambodia', 'Kazakhstan', 'Saint Kitts and Nevis', 
+'Micronesia', 'Tajikistan', 'Colombia', 'Bahrain', 'South Sudan', 'Comoros', 
+'Equatorial Guinea', 'Azerbaijan', 'Bahamas', 'Morocco', 'Kiribati', 'Nigeria', 
+'Dominica', 'Malawi', 'Tuvalu', 'Vanuatu', 'Fiji', 'Benin', 'Senegal', 'Saint 
+Vincent and the Grenadines', 'Libya', 'Nepal', 'Mauritius', 'Qatar', 'Egypt', 
+'Djibouti', 'Sierra Leone', 'Thailand', 'Georgia', 'Togo', 'Bhutan', 'Suriname',
+'Maldives', 'Iraq', 'São Tomé and Príncipe', 'Democratic Republic of the Congo',
+'Somalia', 'Burkina Faso', 'Samoa', 'South Africa', 'Singapore', 'Jordan', 
+'Madagascar', 'Ethiopia', 'Kuwait', 'Palau'}
+
+Example 5: Minimum Visas to Cover All Countries with at Least 'Visa Free' Access
+     Minimum Visas to Cover All Countries with at Least 'Visa Free' Access      
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Documents                                   ┃ Number of Accessible Countries ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Chad Visa, Tunisia Visa, Solomon Islands    │                            104 │
+│ Visa, New Zealand Visa, Central African     │                                │
+│ Republic Visa, Nauru Visa, Republic of the  │                                │
+│ Congo Visa, United Kingdom Visa, Bangladesh │                                │
+│ Visa, Lebanon Visa, Yemen Visa, Eswatini    │                                │
+│ Visa, Australia Visa, Guyana Visa, Ghana    │                                │
+│ Visa, Niger Visa, Ukraine Visa, Israel      │                                │
+│ Visa, Algeria Visa, China Visa, Tonga Visa, │                                │
+│ Japan Visa, Paraguay Visa, Malta Visa,      │                                │
+│ Brazil Visa, Afghanistan Visa, Mali Visa,   │                                │
+│ Jamaica Visa, Turkmenistan Visa, Venezuela  │                                │
+│ Visa, Canada Visa, North Korea Visa,        │                                │
+│ Schengen Visa, Liberia Visa, Eritrea Visa,  │                                │
+│ Belize Visa, Pakistan Visa, Brunei Visa,    │                                │
+│ Namibia Visa, Sudan Visa, United States     │                                │
+│ Visa, Ecuador Visa                          │                                │
+└─────────────────────────────────────────────┴────────────────────────────────┘
+
+Example 6: Suggest Next Best Document (No Constraint)
+                         Suggested Next Best Documents                          
+┏━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃      ┃                 ┃   Additional    ┃    Weighted     ┃                 ┃
+┃ Rank ┃ Document        ┃    Countries    ┃     Benefit     ┃ Provides Target ┃
+┡━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│  1   │ Schengen Visa   │       60        │       172       │       No        │
+│  2   │ United States   │       29        │       78        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  3   │ United Kingdom  │       18        │       50        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  4   │ Canada Visa     │       17        │       46        │       No        │
+│  5   │ Ireland Visa    │        9        │       25        │       No        │
+│  6   │ Australia Visa  │        6        │       16        │       No        │
+│  7   │ Japan Visa      │        5        │       14        │       No        │
+│  8   │ New Zealand     │        3        │        7        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  9   │ GCC Residence   │        3        │        6        │       No        │
+│      │ Permit          │                 │                 │                 │
+│  10  │ Singapore Visa  │        2        │        6        │       No        │
+│  11  │ South Korea     │        2        │        5        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  12  │ US Residence    │        1        │        3        │       No        │
+│      │ Permit          │                 │                 │                 │
+│  13  │ Tunisia Visa    │        1        │        3        │       No        │
+│  14  │ Nauru Visa      │        1        │        3        │       No        │
+│  15  │ Serbia Visa     │        1        │        3        │       No        │
+│  16  │ Bangladesh Visa │        1        │        3        │       No        │
+│  17  │ Bosnia and      │        1        │        3        │       No        │
+│      │ Herzegovina     │                 │                 │                 │
+│      │ Visa            │                 │                 │                 │
+│  18  │ Eswatini Visa   │        1        │        3        │       No        │
+│  19  │ Montenegro Visa │        1        │        3        │       No        │
+│  20  │ UAE Residence   │        1        │        3        │       No        │
+│      │ Permit          │                 │                 │                 │
+│  21  │ Panama Visa     │        1        │        3        │       No        │
+│  22  │ Niger Visa      │        1        │        3        │       No        │
+│  23  │ Tonga Visa      │        1        │        3        │       No        │
+│  24  │ Moldova Visa    │        1        │        3        │       No        │
+│  25  │ Malta Visa      │        1        │        3        │       No        │
+│  26  │ Costa Rica Visa │        1        │        3        │       No        │
+│  27  │ Cyprus Visa     │        1        │        3        │       No        │
+│  28  │ Turkmenistan    │        1        │        3        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  29  │ North Korea     │        1        │        3        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  30  │ Cuba Visa       │        1        │        3        │       No        │
+│  31  │ Eritrea Visa    │        1        │        3        │       No        │
+│  32  │ Belize Visa     │        1        │        3        │       No        │
+│  33  │ Pakistan Visa   │        1        │        3        │       No        │
+│  34  │ Philippines     │        1        │        3        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  35  │ Namibia Visa    │        1        │        3        │       No        │
+│  36  │ Ecuador Visa    │        1        │        3        │       No        │
+│  37  │ Chad Visa       │        1        │        3        │       No        │
+│  38  │ Uruguay Visa    │        1        │        3        │       No        │
+│  39  │ Solomon Islands │        1        │        3        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  40  │ Central African │        1        │        3        │       No        │
+│      │ Republic Visa   │                 │                 │                 │
+│  41  │ Republic of the │        1        │        3        │       No        │
+│      │ Congo Visa      │                 │                 │                 │
+│  42  │ Guatemala Visa  │        1        │        3        │       No        │
+│  43  │ Peru Visa       │        1        │        3        │       No        │
+│  44  │ Lebanon Visa    │        1        │        3        │       No        │
+│  45  │ Yemen Visa      │        1        │        3        │       No        │
+│  46  │ Saudi Arabia    │        1        │        3        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  47  │ Guyana Visa     │        1        │        3        │       No        │
+│  48  │ Ghana Visa      │        1        │        3        │       No        │
+│  49  │ United Arab     │        1        │        3        │       No        │
+│      │ Emirates Visa   │                 │                 │                 │
+│  50  │ Ukraine Visa    │        1        │        3        │       No        │
+│  51  │ Israel Visa     │        1        │        3        │       No        │
+│  52  │ Algeria Visa    │        1        │        3        │       No        │
+│  53  │ China Visa      │        1        │        3        │       No        │
+│  54  │ Paraguay Visa   │        1        │        3        │       No        │
+│  55  │ Brazil Visa     │        1        │        3        │       No        │
+│  56  │ Afghanistan     │        1        │        3        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  57  │ Belarus Visa    │        1        │        3        │       No        │
+│  58  │ Honduras Visa   │        1        │        3        │       No        │
+│  59  │ North Macedonia │        1        │        3        │       No        │
+│      │ Visa            │                 │                 │                 │
+│  60  │ Mali Visa       │        1        │        3        │       No        │
+│  61  │ Jamaica Visa    │        1        │        3        │       No        │
+│  62  │ Mexico Visa     │        1        │        3        │       No        │
+│  63  │ Dominican       │        1        │        3        │       No        │
+│      │ Republic Visa   │                 │                 │                 │
+│  64  │ Venezuela Visa  │        1        │        3        │       No        │
+│  65  │ Liberia Visa    │        1        │        3        │       No        │
+│  66  │ Brunei Visa     │        1        │        3        │       No        │
+│  67  │ Sudan Visa      │        1        │        3        │       No        │
+│  68  │ Albania Visa    │        1        │        3        │       No        │
+│  69  │ Chile Visa      │        1        │        3        │       No        │
+│  70  │ UAE Visa        │        1        │        2        │       No        │
+│  71  │ Isreal Visa     │        1        │        2        │       No        │
+│  72  │ GCC Residence   │        1        │        2        │       No        │
+│      │ Visa            │                 │                 │                 │
+└──────┴─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+
+Example 7: Suggest Next Best Document (Must Provide Access to Mexico)
+                         Suggested Next Best Documents                          
+┏━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃      ┃                 ┃   Additional    ┃    Weighted     ┃                 ┃
+┃ Rank ┃ Document        ┃    Countries    ┃     Benefit     ┃ Provides Target ┃
+┡━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│  1   │ Schengen Visa   │       60        │       172       │       Yes       │
+│  2   │ United States   │       29        │       78        │       Yes       │
+│      │ Visa            │                 │                 │                 │
+│  3   │ United Kingdom  │       18        │       50        │       Yes       │
+│      │ Visa            │                 │                 │                 │
+│  4   │ Canada Visa     │       17        │       46        │       Yes       │
+│  5   │ Japan Visa      │        5        │       14        │       Yes       │
+│  6   │ Mexico Visa     │        1        │        3        │       Yes       │
+└──────┴─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+
+Example 8: Sequential Suggestions to Strengthen Passport
+
+Step 1: Current Documents: Indian Passport
+Suggested Next Document: Schengen Visa (Benefit: 172, Provides Target: No)
+
+Step 2: Current Documents: Schengen Visa, Indian Passport
+Suggested Next Document: United States Visa (Benefit: 78, Provides Target: No)
+
+Step 3: Current Documents: Schengen Visa, Indian Passport, United States Visa
+Suggested Next Document: United Kingdom Visa (Benefit: 50, Provides Target: No)

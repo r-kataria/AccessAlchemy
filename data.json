@@ -1,0 +1,792 @@
+{
+    "Afghanistan": {
+        "Indian Passport": "visa_required",
+        "Afghanistan Visa": "visa_free"
+    },
+    "Albania": {
+        "Indian Passport": "visa_required",
+        "Albania Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "UAE Residence Permit": "visa_free"
+    },
+    "Algeria": {
+        "Indian Passport": "visa_required",
+        "Algeria Visa": "visa_free"
+    },
+    "Andorra": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Angola": {
+        "Indian Passport": "visa_free"
+    },
+    "Antigua and Barbuda": {
+        "Indian Passport": "visa_required",
+        "Canada Visa": "evisa",
+        "Schengen Visa": "evisa",
+        "United States Visa": "evisa",
+        "United Kingdom Visa": "evisa"
+    },
+    "Argentina": {
+        "Indian Passport": "visa_required",
+        "United States Visa": "evisa"
+    },
+    "Armenia": {
+        "Indian Passport": "evisa"
+    },
+    "Australia": {
+        "Indian Passport": "visa_required",
+        "Australia Visa": "visa_free"
+    },
+    "Austria": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Azerbaijan": {
+        "Indian Passport": "evisa"
+    },
+    "Bahamas": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "evisa",
+        "United States Visa": "evisa",
+        "United Kingdom Visa": "evisa",
+        "Canada Visa": "evisa"
+    },
+    "Bahrain": {
+        "Indian Passport": "visa_required",
+        "GCC Residence Permit": "evisa",
+        "UAE Visa": "evisa",
+        "United States Visa": "evisa",
+        "Schengen Visa": "evisa"
+    },
+    "Bangladesh": {
+        "Indian Passport": "visa_required",
+        "Bangladesh Visa": "visa_free"
+    },
+    "Belarus": {
+        "Indian Passport": "visa_required",
+        "Belarus Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Barbados": {
+        "Indian Passport": "visa_free"
+    },
+    "Belgium": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Belize": {
+        "Indian Passport": "visa_required",
+        "Belize Visa": "visa_free"
+    },
+    "Benin": {
+        "Indian Passport": "evisa"
+    },
+    "Bhutan": {},
+    "Bolivia": {
+        "Indian Passport": "evisa"
+    },
+    "Bosnia and Herzegovina": {
+        "Indian Passport": "visa_required",
+        "Bosnia and Herzegovina Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "United States Visa": "visa_free"
+    },
+    "Botswana": {
+        "Indian Passport": "evisa"
+    },
+    "Brazil": {
+        "Indian Passport": "visa_required",
+        "Brazil Visa": "visa_free"
+    },
+    "Brunei": {
+        "Indian Passport": "visa_required",
+        "Brunei Visa": "visa_free"
+    },
+    "Bulgaria": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Burkina Faso": {
+        "Indian Passport": "evisa"
+    },
+    "Burundi": {
+        "Indian Passport": "evisa"
+    },
+    "Cambodia": {
+        "Indian Passport": "evisa"
+    },
+    "Cameroon": {
+        "Indian Passport": "evisa"
+    },
+    "Canada": {
+        "Indian Passport": "visa_required",
+        "Canada Visa": "visa_free",
+        "US Residence Permit": "visa_free"
+    },
+    "Cape Verde": {
+        "Indian Passport": "evisa"
+    },
+    "Central African Republic": {
+        "Indian Passport": "visa_required",
+        "Central African Republic Visa": "visa_free"
+    },
+    "Chad": {
+        "Indian Passport": "visa_required",
+        "Chad Visa": "visa_free"
+    },
+    "Chile": {
+        "Indian Passport": "visa_required",
+        "Chile Visa": "visa_free",
+        "United States Visa": "visa_free"
+    },
+    "China": {
+        "Indian Passport": "visa_required",
+        "China Visa": "visa_free"
+    },
+    "Colombia": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "evisa",
+        "United States Visa": "evisa"
+    },
+    "Comoros": {
+        "Indian Passport": "evisa"
+    },
+    "Republic of the Congo": {
+        "Indian Passport": "visa_required",
+        "Republic of the Congo Visa": "visa_free"
+    },
+    "Democratic Republic of the Congo": {
+        "Indian Passport": "evisa"
+    },
+    "Costa Rica": {
+        "Indian Passport": "visa_required",
+        "Costa Rica Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "C\u00f4te d'Ivoire": {
+        "Indian Passport": "evisa"
+    },
+    "Croatia": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Cuba": {
+        "Indian Passport": "visa_required",
+        "Cuba Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Cyprus": {
+        "Indian Passport": "visa_required",
+        "Cyprus Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Czech Republic": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Denmark": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Djibouti": {
+        "Indian Passport": "evisa"
+    },
+    "Dominica": {
+        "Indian Passport": "visa_free"
+    },
+    "East Timor": {
+        "Indian Passport": "evisa"
+    },
+    "Ecuador": {
+        "Indian Passport": "visa_required",
+        "Ecuador Visa": "visa_free"
+    },
+    "Dominican Republic": {
+        "Indian Passport": "visa_required",
+        "Dominican Republic Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Egypt": {
+        "Indian Passport": "visa_required",
+        "GCC Residence Permit": "evisa"
+    },
+    "El Salvador": {
+        "Indian Passport": "visa_free"
+    },
+    "Equatorial Guinea": {
+        "Indian Passport": "evisa"
+    },
+    "Eritrea": {
+        "Indian Passport": "visa_required",
+        "Eritrea Visa": "visa_free"
+    },
+    "Estonia": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Eswatini": {
+        "Indian Passport": "visa_required",
+        "Eswatini Visa": "visa_free"
+    },
+    "Ethiopia": {
+        "Indian Passport": "evisa"
+    },
+    "Fiji": {
+        "Indian Passport": "visa_free"
+    },
+    "Finland": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "France": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Germany": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Vatican City": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Venezuela": {
+        "Indian Passport": "visa_required",
+        "Venezuela Visa": "visa_free"
+    },
+    "Gabon": {
+        "Indian Passport": "evisa"
+    },
+    "Gambia": {
+        "Indian Passport": "visa_free"
+    },
+    "Ghana": {
+        "Indian Passport": "visa_required",
+        "Ghana Visa": "visa_free"
+    },
+    "Greece": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Grenada": {
+        "Indian Passport": "visa_free"
+    },
+    "Guatemala": {
+        "Indian Passport": "visa_required",
+        "Guatemala Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Hungary": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Guinea": {
+        "Indian Passport": "evisa"
+    },
+    "Guinea-Bissau": {
+        "Indian Passport": "evisa"
+    },
+    "Guyana": {
+        "Indian Passport": "visa_required",
+        "Guyana Visa": "visa_free"
+    },
+    "Haiti": {
+        "Indian Passport": "visa_free"
+    },
+    "Israel": {
+        "Indian Passport": "visa_required",
+        "Israel Visa": "visa_free"
+    },
+    "Italy": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Jamaica": {
+        "Indian Passport": "visa_required",
+        "Jamaica Visa": "visa_free"
+    },
+    "Iraq": {
+        "Indian Passport": "evisa"
+    },
+    "Indonesia": {
+        "Indian Passport": "evisa"
+    },
+    "Iran": {
+        "Indian Passport": "visa_free"
+    },
+    "Lesotho": {
+        "Indian Passport": "evisa"
+    },
+    "Liberia": {
+        "Indian Passport": "visa_required",
+        "Liberia Visa": "visa_free"
+    },
+    "Libya": {
+        "Indian Passport": "evisa"
+    },
+    "Liechtenstein": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Lithuania": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Luxembourg": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Madagascar": {
+        "Indian Passport": "evisa"
+    },
+    "Malawi": {
+        "Indian Passport": "evisa"
+    },
+    "Iceland": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Honduras": {
+        "Indian Passport": "visa_required",
+        "Honduras Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Ireland": {
+        "Indian Passport": "visa_required",
+        "Ireland Visa": "visa_free",
+        "United Kingdom Visa": "visa_free"
+    },
+    "Japan": {
+        "Indian Passport": "visa_required",
+        "Japan Visa": "visa_free"
+    },
+    "Jordan": {
+        "Indian Passport": "evisa"
+    },
+    "Kazakhstan": {
+        "Indian Passport": "visa_free"
+    },
+    "Kenya": {
+        "Indian Passport": "evisa"
+    },
+    "Kiribati": {
+        "Indian Passport": "visa_free"
+    },
+    "North Korea": {
+        "Indian Passport": "visa_required",
+        "North Korea Visa": "visa_free"
+    },
+    "Latvia": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Niger": {
+        "Indian Passport": "visa_required",
+        "Niger Visa": "visa_free"
+    },
+    "Nigeria": {
+        "Indian Passport": "evisa"
+    },
+    "North Macedonia": {
+        "Indian Passport": "visa_required",
+        "North Macedonia Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "Canada Visa": "visa_free"
+    },
+    "Norway": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Oman": {
+        "Indian Passport": "visa_free"
+    },
+    "Nepal": {},
+    "Sudan": {
+        "Indian Passport": "visa_required",
+        "Sudan Visa": "visa_free"
+    },
+    "Suriname": {
+        "Indian Passport": "evisa"
+    },
+    "Sweden": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Switzerland": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Syria": {
+        "Indian Passport": "evisa"
+    },
+    "Tajikistan": {
+        "Indian Passport": "evisa"
+    },
+    "Tanzania": {
+        "Indian Passport": "evisa"
+    },
+    "Thailand": {
+        "Indian Passport": "visa_free"
+    },
+    "Togo": {
+        "Indian Passport": "evisa"
+    },
+    "United Kingdom": {
+        "Indian Passport": "visa_required",
+        "United Kingdom Visa": "visa_free",
+        "Ireland Visa": "visa_free"
+    },
+    "United States": {
+        "Indian Passport": "visa_required",
+        "United States Visa": "visa_free"
+    },
+    "Zambia": {
+        "Indian Passport": "evisa"
+    },
+    "Zimbabwe": {
+        "Indian Passport": "evisa"
+    },
+    "Tonga": {
+        "Indian Passport": "visa_required",
+        "Tonga Visa": "visa_free"
+    },
+    "Trinidad and Tobago": {
+        "Indian Passport": "visa_free"
+    },
+    "Ukraine": {
+        "Indian Passport": "visa_required",
+        "Ukraine Visa": "visa_free"
+    },
+    "Yemen": {
+        "Indian Passport": "visa_required",
+        "Yemen Visa": "visa_free"
+    },
+    "Vietnam": {
+        "Indian Passport": "evisa"
+    },
+    "Micronesia": {
+        "Indian Passport": "visa_free"
+    },
+    "Mali": {
+        "Indian Passport": "visa_required",
+        "Mali Visa": "visa_free"
+    },
+    "Malta": {
+        "Indian Passport": "visa_required",
+        "Malta Visa": "visa_free"
+    },
+    "Marshall Islands": {
+        "Indian Passport": "evisa"
+    },
+    "Mauritania": {
+        "Indian Passport": "evisa"
+    },
+    "Kuwait": {
+        "Indian Passport": "visa_required",
+        "GCC Residence Permit": "evisa"
+    },
+    "Netherlands": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "New Zealand": {
+        "Indian Passport": "visa_required",
+        "New Zealand Visa": "visa_free"
+    },
+    "Nicaragua": {
+        "Indian Passport": "visa_required",
+        "Canada Visa": "evisa",
+        "United States Visa": "evisa",
+        "Schengen Visa": "evisa"
+    },
+    "Georgia": {
+        "Indian Passport": "visa_required",
+        "United Kingdom Visa": "evisa",
+        "United States Visa": "evisa",
+        "Japan Visa": "evisa",
+        "Canada Visa": "evisa",
+        "Australia Visa": "evisa",
+        "New Zealand Visa": "evisa",
+        "Isreal Visa": "evisa",
+        "South Korea Visa": "evisa",
+        "Ireland Visa": "evisa",
+        "Schengen Visa": "evisa",
+        "GCC Residence Visa": "evisa"
+    },
+    "South Korea": {
+        "Indian Passport": "visa_required",
+        "United States Visa": "evisa",
+        "Canada Visa": "evisa",
+        "Australia Visa": "evisa",
+        "New Zealand Visa": "evisa",
+        "Schengen Visa": "evisa"
+    },
+    "Lebanon": {
+        "Indian Passport": "visa_required",
+        "Lebanon Visa": "visa_free"
+    },
+    "Malaysia": {
+        "Indian Passport": "visa_free"
+    },
+    "Maldives": {
+        "Indian Passport": "visa_free"
+    },
+    "Mauritius": {
+        "Indian Passport": "visa_free"
+    },
+    "Mexico": {
+        "Indian Passport": "visa_required",
+        "Mexico Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "Japan Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Monaco": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Rwanda": {
+        "Indian Passport": "visa_free"
+    },
+    "Saint Kitts and Nevis": {
+        "Indian Passport": "visa_free"
+    },
+    "Saint Lucia": {
+        "Indian Passport": "evisa"
+    },
+    "Saint Vincent and the Grenadines": {
+        "Indian Passport": "visa_free"
+    },
+    "Samoa": {
+        "Indian Passport": "visa_free"
+    },
+    "San Marino": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+        "Indian Passport": "evisa"
+    },
+    "Morocco": {
+        "Indian Passport": "evisa"
+    },
+    "Uzbekistan": {
+        "Indian Passport": "evisa"
+    },
+    "Vanuatu": {
+        "Indian Passport": "visa_free"
+    },
+    "Turkmenistan": {
+        "Indian Passport": "visa_required",
+        "Turkmenistan Visa": "visa_free"
+    },
+    "Tuvalu": {
+        "Indian Passport": "evisa"
+    },
+    "Kyrgyzstan": {
+        "Indian Passport": "evisa"
+    },
+    "Laos": {
+        "Indian Passport": "evisa"
+    },
+    "Paraguay": {
+        "Indian Passport": "visa_required",
+        "Paraguay Visa": "visa_free"
+    },
+    "Pakistan": {
+        "Indian Passport": "visa_required",
+        "Pakistan Visa": "visa_free"
+    },
+    "Palau": {
+        "Indian Passport": "visa_free"
+    },
+    "Moldova": {
+        "Indian Passport": "visa_required",
+        "Moldova Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "Ireland Visa": "visa_free"
+    },
+    "Mongolia": {
+        "Indian Passport": "evisa"
+    },
+    "Montenegro": {
+        "Indian Passport": "visa_required",
+        "Montenegro Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "Ireland Visa": "visa_free"
+    },
+    "Romania": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Russia": {
+        "Indian Passport": "evisa"
+    },
+    "Panama": {
+        "Indian Passport": "visa_required",
+        "Panama Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "Australia Visa": "visa_free",
+        "Japan Visa": "visa_free",
+        "Singapore Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "Ireland Visa": "visa_free",
+        "South Korea Visa": "visa_free"
+    },
+    "Papua New Guinea": {
+        "Indian Passport": "evisa"
+    },
+    "Peru": {
+        "Indian Passport": "visa_required",
+        "Peru Visa": "visa_free",
+        "Australia Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "United Kingdom Visa": "visa_free"
+    },
+    "Philippines": {
+        "Indian Passport": "visa_required",
+        "Philippines Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Japan Visa": "visa_free",
+        "Australia Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "Singapore Visa": "visa_free",
+        "United Kingdom Visa": "visa_free"
+    },
+    "Poland": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Portugal": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Qatar": {
+        "Indian Passport": "visa_free"
+    },
+    "Mozambique": {
+        "Indian Passport": "evisa"
+    },
+    "Myanmar": {
+        "Indian Passport": "evisa"
+    },
+    "Namibia": {
+        "Indian Passport": "visa_required",
+        "Namibia Visa": "visa_free"
+    },
+    "Nauru": {
+        "Indian Passport": "visa_required",
+        "Nauru Visa": "visa_free"
+    },
+    "Uganda": {
+        "Indian Passport": "evisa"
+    },
+    "Serbia": {
+        "Indian Passport": "visa_required",
+        "Serbia Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "Ireland Visa": "visa_free",
+        "United States Visa": "visa_free"
+    },
+    "Seychelles": {
+        "Indian Passport": "evisa"
+    },
+    "Sierra Leone": {
+        "Indian Passport": "evisa"
+    },
+    "Singapore": {
+        "Indian Passport": "evisa"
+    },
+    "Senegal": {
+        "Indian Passport": "visa_free"
+    },
+    "Slovakia": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Slovenia": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Solomon Islands": {
+        "Indian Passport": "visa_required",
+        "Solomon Islands Visa": "visa_free"
+    },
+    "Spain": {
+        "Indian Passport": "visa_required",
+        "Schengen Visa": "visa_free"
+    },
+    "Somalia": {
+        "Indian Passport": "evisa"
+    },
+    "South Africa": {
+        "Indian Passport": "evisa"
+    },
+    "South Sudan": {
+        "Indian Passport": "evisa"
+    },
+    "Sri Lanka": {
+        "Indian Passport": "evisa"
+    },
+    "Uruguay": {
+        "Indian Passport": "visa_required",
+        "Uruguay Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "Canada Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "Schengen Visa": "visa_free"
+    },
+    "Tunisia": {
+        "Indian Passport": "visa_required",
+        "Tunisia Visa": "visa_free"
+    },
+    "Saudi Arabia": {
+        "Indian Passport": "visa_required",
+        "Saudi Arabia Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "United States Visa": "visa_free"
+    },
+    "Turkey": {
+        "Indian Passport": "visa_required",
+        "United States Visa": "evisa",
+        "United Kingdom Visa": "evisa",
+        "Ireland Visa": "evisa",
+        "Schengen Visa": "evisa"
+    },
+    "United Arab Emirates": {
+        "Indian Passport": "visa_required",
+        "United Arab Emirates Visa": "visa_free",
+        "United States Visa": "visa_free",
+        "United Kingdom Visa": "visa_free",
+        "Schengen Visa": "visa_free",
+        "Ireland Visa": "visa_free"
+    }
+}
